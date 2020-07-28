@@ -8,7 +8,12 @@ A template to get you started with Firebase and Semantic UI React.
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 -   styled with [Semantic UI React](https://react.semantic-ui.com/)
 
-I've implemented the basic Firebase features for user authentication:
+You'll get
+- a responsive navbar that collapses on mobile
+- a react-router with public and protected routes for logged in users
+- localization / translation with i18next
+
+as well as basic Firebase features for user authentication like
 - Create account
 - Login
 - Login with Google
@@ -20,11 +25,11 @@ I've implemented the basic Firebase features for user authentication:
 - Avatar upload
 - Delete account
 
-## Customization
+## Usage
 
 Feel free to fork this repo and built your project based on it.
 
-Start by setting up a Firebase project and adding your credentials to the `.env` file.
+Start by setting up a project with the Firebase dashboard and adding your credentials to the `.env` file.
 Authentication features should work out of the box.
 
 ```

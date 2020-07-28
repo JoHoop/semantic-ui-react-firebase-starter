@@ -35,6 +35,8 @@ as well as basic Firebase features for user authentication like
 
 Feel free to fork this repo and built your project based on it.
 
+If you improve this starter template in any way a pull request would be very much appreciated! ✌️
+
 Start by setting up a project with the Firebase dashboard and adding your credentials to the `.env` file.
 Authentication features should work out of the box.
 
@@ -48,8 +50,6 @@ REACT_APP_FIREBASE_STORAGE_BUCKET="project-abCDe.appspot.com"
 REACT_APP_FIREBASE_SENDER_ID="123456789"
 REACT_APP_FIREBASE_APP_ID="1:123456789:web:123456789"
 ```
-
-If you improve this starter template in any way a pull request would be very much appreciated ;)
 
 ## Available Scripts
 

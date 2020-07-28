@@ -1,0 +1,70 @@
+<img alt="Logo" src="https://semantic-ui.com/images/logo.png" width="100" />
+
+# Semantic UI React starter project with Firebase
+
+A template to get you started with Firebase and Semantic UI React.
+
+-   built using [React](https://reactjs.org/)
+-   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+-   styled with [Semantic UI React](https://react.semantic-ui.com/)
+
+I've implemented the basic Firebase features for user authentication:
+- Create account
+- Login
+- Login with Google
+- Log out
+- Account page
+- Change username, email, password
+- Verify email
+- Reset password
+- Avatar upload
+- Delete account
+
+## Customization
+
+Feel free to fork this repo and built your project based on it.
+
+Start by setting up a Firebase project and adding your credentials to the `.env` file.
+Authentication features should work out of the box.
+
+```
+## Firebase
+REACT_APP_FIREBASE_KEY="AbCDefgHIJklmNOpQrsTUwxYZ"
+REACT_APP_FIREBASE_DOMAIN="project-abCDe.firebaseapp.com"
+REACT_APP_FIREBASE_DATABASE="https://project-abCDe.firebaseio.com/"
+REACT_APP_FIREBASE_PROJECT_ID="project-abCDe"
+REACT_APP_FIREBASE_STORAGE_BUCKET="project-abCDe.appspot.com"
+REACT_APP_FIREBASE_SENDER_ID="123456789"
+REACT_APP_FIREBASE_APP_ID="1:123456789:web:123456789"
+```
+
+If you improve this starter template in any way a pull request would be very much appreciated ;)
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+to install the dependencies.
+
+### `npm start`
+
+to run the app in the development mode at [http://localhost:3000](http://localhost:3000)<br />
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `npm build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+![Screenshots](/demo-screenshots/account-demo.png)
+![Screenshots](/demo-screenshots/signin-demo.png)
+![Screenshots](/demo-screenshots/signup-demo.png)
+![Screenshots](/demo-screenshots/reset-demo.png)
+![Screenshots](/demo-screenshots/landing-demo.png)

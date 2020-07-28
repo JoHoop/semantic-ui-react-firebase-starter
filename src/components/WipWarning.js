@@ -6,7 +6,7 @@ export const WipWarning = () => {
         <Container style={{ marginTop: "7em" }}>
             <Message
                 color="teal"
-                content="https://github.com/JoHoop/semantic-ui-firebase-starter"
+                content="https://github.com/JoHoop/semantic-ui-react-firebase-starter"
             />
         </Container>
     );

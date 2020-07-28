@@ -4,6 +4,8 @@
 
 This is a basic web app to get you started with Firebase user authentication and fresh Semantic UI React components.
 
+![Screenshots](/demo-screenshots/signin-demo.png)
+
 -   built using [React](https://reactjs.org/)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 -   styled with [Semantic UI React](https://react.semantic-ui.com/)

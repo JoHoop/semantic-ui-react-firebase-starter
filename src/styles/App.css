@@ -1,0 +1,49 @@
+::-moz-selection {
+    background: #00b5ad;
+}
+
+::selection {
+    background: #00b5ad;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.Site {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.SiteContent {
+    flex: 1 0 auto;
+    padding: var(--space) var(--space) 0;
+    width: 100%;
+}
+
+.SiteContent:after {
+    content: "\00a0";
+    display: block;
+    margin-top: var(--space);
+    height: 0;
+    visibility: hidden;
+    padding-top: 10em !important;
+}
+
+.footerContainer {
+    line-height: 8px !important;
+}
+
+.limitWidthToContainer {
+    width: 100% !important;
+}
+
+.tealColor {
+    color: #00b5ad !important;
+}
+
+.ui.inverted.link.list.list .item a:not(.ui):hover,
+.ui.inverted.link.list.list a.item:hover {
+    color: #00b5ad !important;
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "1": ""
+    },
+    "home": {
+        "competeButton": "View repo",
+        "description": "Boilerplate code for Semantic UI React using Firebase authentication.",
+        "header": "Semantic UI React with Firebase"
+    }
+}

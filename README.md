@@ -1,8 +1,8 @@
 <img alt="Logo" src="https://semantic-ui.com/images/logo.png" width="100" />
 
-# Semantic UI React starter project with Firebase
+# Semantic UI React starter project with Firebase Auth
 
-A template to get you started with Firebase and Semantic UI React.
+This is a basic web app to get you started with Firebase user authentication and fresh Semantic UI React components.
 
 -   built using [React](https://reactjs.org/)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
@@ -10,9 +10,11 @@ A template to get you started with Firebase and Semantic UI React.
 
 You'll get
 
--   a responsive navbar that collapses on mobile
--   a react-router with public and protected routes for logged in users
+-   a responsive navbar that collapses on mobile as well as a footer
+-   a react-router with public and protected routes and 404 error page
+-   lazy loading of componenents once needed with a suspense progress bar and error boundry.
 -   localization / translation with i18next
+-   provider for current user object as context to all pages
 
 as well as basic Firebase features for user authentication like
 

@@ -4,8 +4,6 @@
 
 This is a basic web app with boilerplate to get you started with Firebase user authentication and fresh Semantic UI React components.
 
-Using arrow function syntax for all components.
-
 ![Screenshots](/demo-screenshots/signin-demo.png)
 
 -   built using [React](https://reactjs.org/)
@@ -16,7 +14,8 @@ You'll get
 
 -   a responsive navbar that collapses on mobile as well as a footer
 -   a react-router with public and protected routes and 404 error page
--   lazy loading of componenents once needed with a suspense progress bar and error boundry.
+-   lazy loading of componenents once needed with a suspense progress bar and error boundry
+-   arrow function components (ES6 syntax)
 -   localization / translation with i18next
 -   provider for current user object as context to all pages
 

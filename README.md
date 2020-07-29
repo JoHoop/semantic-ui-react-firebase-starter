@@ -2,7 +2,7 @@
 
 # Semantic UI React starter project with Firebase Auth
 
-This is a basic web app with boilerplate to get you started with Firebase user authentication and fresh Semantic UI React components.
+This is a basic web app with boilerplate to get you started with Firebase user authentication with fresh Semantic UI React components.
 
 ![Screenshots](/demo-screenshots/signin-demo.png)
 
@@ -40,6 +40,7 @@ If you improve this starter template in any way a pull request would be very muc
 
 Start by setting up a project with the Firebase dashboard and adding your credentials to the `.env` file.
 Authentication features should work out of the box.
+Make sure not to push your credentials (obviously).
 
 ```
 ## Firebase

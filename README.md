@@ -3,7 +3,7 @@
 # Semantic UI React starter project with Firebase Auth
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/semantic-ui-react-firebase-starter/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/semantic-ui-react-firebase-starter/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/JoHoop/semantic-ui-react-firebase-starter.svg)](https://github.com/JoHoop/semantic-ui-react-firebase-starter/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoHoop/semantic-ui-react-firebase-starter/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 

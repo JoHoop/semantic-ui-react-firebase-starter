@@ -47,7 +47,7 @@ If you improve this starter template in any way a pull request would be very muc
 
 Start by setting up a project with the Firebase dashboard and adding your credentials to the `.env` file.
 Authentication features should work out of the box.
-Make sure not to push your credentials (obviously).
+Make sure not to publish your credentials (obviously).
 
 ```
 ## Firebase

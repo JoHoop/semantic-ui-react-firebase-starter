@@ -1,6 +1,9 @@
-<img alt="Logo" src="https://semantic-ui.com/images/logo.png" width="100" />
+
+<a href="https://ecup.eu"><img alt="Logo" src="https://semantic-ui.com/images/logo.png" width="100" /></a>
 
 # Semantic UI React starter project with Firebase Auth
+
+# [!Demo](https://ecup.eu)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fjohoop%2Fsemantic-ui-react-firebase-starter&c=1)
 
